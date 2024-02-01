@@ -11,7 +11,7 @@ UnityJokeGenerator is a Unity project that brings a touch of humor to your appli
 
 ## Demo
 
-![Screen Recording 2024-02-01 at 1 18 22 AM](https://github.com/AhzamRasul/UnityJokeGenerator/assets/50517265/df7b0a25-f032-4f39-8fcc-e2429f470778)
+https://github.com/AhzamRasul/UnityJokeGenerator/assets/50517265/c8c63d43-fb38-415c-a46b-af511ed03da8
 
 
 ## Getting Started
