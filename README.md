@@ -1,7 +1,5 @@
 # UnityJokeGenerator
 
-![UnityJokeGenerator](link-to-your-logo-or-screenshot.png)
-
 UnityJokeGenerator is a Unity project that brings a touch of humor to your application by integrating a random joke API. With a sleek user interface, loading progress bar, error handling, and manual refresh functionality, this project aims to provide a delightful and entertaining experience.
 
 ## Features
@@ -10,11 +8,11 @@ UnityJokeGenerator is a Unity project that brings a touch of humor to your appli
 - **Loading Progress:** A visually appealing progress bar indicates the loading process.
 - **Error Handling:** Robust error handling ensures a smooth user experience.
 - **Manual Refresh:** Hit the refresh button to enjoy a new joke on demand.
-- **Usage Info:** A user-friendly guide on how to navigate the app.
 
 ## Demo
 
-Check out the [demo video](link-to-your-demo-video) to see UnityJokeGenerator in action!
+![Screen Recording 2024-02-01 at 1 18 22 AM](https://github.com/AhzamRasul/UnityJokeGenerator/assets/50517265/df7b0a25-f032-4f39-8fcc-e2429f470778)
+
 
 ## Getting Started
 
